@@ -50,9 +50,9 @@ Below is a comparative, sorted list of major commercial SaaS platforms for highe
 
 ## 🔓 Open-Source GitHub Repositories
 
-Below are production-ready open-source Student Information Systems, Learning Management Systems (LMS), and Educational ERP platforms, sorted by **GitHub Star Count (Descending)** 📉.
+Below are production-ready open-source Student Information Systems, Learning Management Systems (LMS), and Educational ERP platforms, sorted by **GitHub Stars_Count (Descending)** 📉.
 
-| 📦 Repository & Link | ⭐ GitHub Stars Badge | 📜 License | 🧰 Tech Stack | 📌 Overview & Scope |
+| 📦 Repository & Link | ⭐ GitHub_Stars_Badge | 📜 License | 🧰 Tech Stack | 📌 Overview & Scope |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo Community Edition](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | Modular enterprise ERP platform with native modules adaptable for school management, admissions, and payroll. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python (Frappe Framework), JS, MariaDB | Full-featured open-source ERP with built-in Education module for student records, fees, and course scheduling. |
