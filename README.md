@@ -1,209 +1,115 @@
-# Awesome-Campus-Management
+# 🎓 Awesome Campus Management & Student Information Systems (SIS) 🏫
 
-## Top Campus Management Ecosystem
+![Awesome Campus Management Banner](./assets/banner.svg)
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Student Information Systems, Higher Education ERP & Campus Operations*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Campus Management**. These tools manage student information, admissions, enrollment, academic records, billing, and campus operations for K-12 schools, colleges, universities, and multi-campus institutions.
-
-
-
-**Examples** include Ellucian Banner, Anthology Student, Unit4 Student Management, CampusNexus, Jenzabar ONE, Populi, CampusCafe, Academia ERP, Classe365, and OpenEduCat (the category leaders).
-
-
-
-**Open-source emphasis**: This section is expanded with active projects for self-hosting, custom student information workflows, and transparent academic data management — ideal for schools, universities, and developers building vendor-independent campus management solutions. The open-source ecosystem offers production-grade student information systems, ERP-based educational platforms, and lightweight school management tools.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Ellucian Banner](https://www.ellucian.com/)**  
-
-  Comprehensive higher education ERP used by thousands of institutions for student information, finance, HR, and advancement.
-
-
-
-- **[Anthology Student](https://www.anthology.com/)**  
-
-  Student information system designed for higher education with admissions, registration, financial aid, and student accounts.
-
-
-
-- **[Unit4 Student Management](https://www.unit4.com/)**  
-
-  Cloud-based student management for higher education institutions, part of Unit4's ERP suite.
-
-
-
-- **[CampusNexus](https://www.campusnexus.com/)**  
-
-  Higher education ERP from Anthology with student information, CRM, and financial aid management.
-
-
-
-- **[Jenzabar ONE](https://www.jenzabar.com/)**  
-
-  Unified ERP platform for higher education covering student, finance, HR, and advancement.
-
-
-
-- **[Populi](https://www.populiweb.com/)**  
-
-  Cloud-based college management system with student information, financial aid, and online learning.
-
-
-
-- **[CampusCafe](https://www.campuscafe.com/)**  
-
-  K-12 school management software with student information, attendance, grading, and communication.
-
-
-
-- **[Academia ERP](https://www.academiaerp.com/)**  
-
-  Education ERP for K-12 and higher education with admissions, fees, attendance, and examination management.
-
-
-
-- **[Classe365](https://www.classe365.com/)**  
-
-  Integrated cloud-based student and learning management platform used by 4,500+ institutions in 130+ countries, with 1 million+ active students .
-
-
-
-- **[OpenEduCat](https://openeducat.org/)**  
-
-  Open-source educational ERP built on Odoo. Community Edition free under LGPL-3, Enterprise Edition available. Trusted by 500+ institutions across 50+ countries .
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[openSIS Classic](https://github.com/OS4ED/openSIS-Classic)**  
-
-  Commercial-grade, secure, and scalable Student Information System for K-12, trade schools, and higher education. Community Edition version 9.3 (June 2026) with GPL license. Features student and staff management, course scheduling, attendance, grades, teacher gradebook, progress reports, report cards, transcripts, and built-in communication. Requires Apache 2.4+, MySQL 5.7/8.0 or MariaDB 10.4+, and PHP 8.x . Docker images available for self-hosted deployment .
-
-
-
-- **[OpenEduCat Community Edition](https://github.com/openeducat)**  
-
-  Open-source educational ERP built on Odoo 19 with 74+ integrated modules. Community Edition under LGPL-3 license with full source access. Features admission management, course and student management, faculty management, examination system, financial management, LMS, quiz/assessment, attendance tracking, gradebook, timetable, and 20+ additional modules. Multi-institution support for managing multiple campuses from one platform . Available via Docker Hub and source packages.
-
-
-
-- **[RosarioSIS](https://github.com/francoisjacquet/rosariosis)**  
-
-  Free software powered by PHP and PostgreSQL that runs as a responsive web application. Established in 2013, actively developed. Designed for K-12 but suitable for academies and higher education. Features: School (multiple schools, calendar, events), Students (demographics, custom fields, medical records), Users (parent/teacher/staff accounts, profiles and permissions), Scheduling (courses, student schedules, timetable reports), Grades (report cards, transcripts, teacher gradebook, assignments, progress reports), Attendance (take attendance, administration, absenteeism reports), Activities (extra-curricular activities and eligibility), Discipline (referrals, statistics, logs), Accounting and Student Billing (fees, payments, staff payroll, daily transactions), Food Service (menus, serve meals, transaction reports). Add-ons include Moodle, Library, School Inventory, Hostel, Messaging, Email, SMS, Jitsi Meet, Lesson Plan, Quiz, and Student ID .
-
-
-
-- **[Gibbon](https://github.com/GibbonEdu/core)**  
-
-  Free and open-source school platform for teachers and administrators. Established in 2010, actively developed. Core platform free to download and use. Features include student information, attendance, gradebook, timetabling, and reporting. Catalyst License (~$13/mo) adds Query Builder module with 151 queries and 31 commands for advanced data management .
-
-
-
-- **[Frappe Education](https://github.com/frappe/education)**  
-
-  Open-source education management system built on the Frappe Framework and ERPNext. Established in 2023. Features student management, attendance, admission, fee management, course scheduling, and examination. Python-based, deployable via Frappe Cloud or Docker .
-
-
-
-- **[Fedena](https://github.com/projectfedena/fedena)**  
-
-  Open-source school management software built on Ruby on Rails, used in over 40,000 schools and universities across 100+ countries. Available in free open-source version and paid Pro/Enterprise versions. Features online admission, fees, employee payroll, examination, grade book, bulk data management, transportation, library, attendance, assignments, and communication. Notable implementation in over 15,000 schools in Kerala, India through the Sampoorna program. Licensed under Apache License 2.0 .
-
-
-
-- **[AlekSIS](https://github.com/AlekSIS)**  
-
-  Python-based school management system established in 2020. Based on Django framework. Features student information, attendance, and reporting. Actively developed with paid support options .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Odoo Community Edition** — Open-source ERP platform with modular apps adaptable for school operations including admissions-style records, staff management, and reporting .
-
-- **ERPNext** — Open-source ERP with education modules for academies and administrative workflows including fees, invoices, and student records .
-
-- **Moodle** — Open-source LMS with assignment workflows, grading, and course-based structure. Not a full ERP but strongest for teaching and learning delivery .
-
-- **School ERP (project-dependent)** — Purpose-built school workflow management tools focusing on student records, attendance, exams, and basic reporting. Verify repository and maintenance status before committing .
-
-
-
-**Frameworks for building custom campus management solutions**: Combine **openSIS Classic** for a mature, self-hosted SIS with comprehensive student information features . Use **OpenEduCat** for an ERP-based approach with 74+ modules covering everything from admissions to payroll . Deploy **RosarioSIS** for a lightweight PHP/PostgreSQL solution with broad functionality including billing and food service . Choose **Fedena** for a Ruby on Rails-based system proven at massive scale (40,000+ institutions) with strong i18n support . For schools wanting to build on a general ERP foundation, **Odoo** or **ERPNext** provide modular flexibility .
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Campus management tools must comply with data privacy regulations (FERPA, GDPR, COPPA, etc.) and local education laws regarding student data handling.
-
-- Self-hosted open-source solutions require proper infrastructure, security hardening, and ongoing maintenance. Data portability and export capabilities should be verified before deployment.
-
-- The open-source ecosystem provides strong SIS and educational ERP foundations, but full enterprise campus management with financial aid processing, advancement/alumni relations, and deep integration with national education systems remains primarily a commercial offering.
-
-
+> 🚀 **The definitive curated list of SaaS products, Education ERPs, and Open-Source GitHub Repositories for Student Information Systems (SIS), Higher Education Administration, K-12 School Management, and Campus Operations.**
 
 ---
 
+## 📊 Market Overview & Industry Dynamics
 
+The global **Campus Management Software & Student Information Systems (SIS)** market size is estimated at **$20.18 Billion – $29.31 Billion** (with the broader Higher Education ERP and SIS market valued at ~$12.14B). 
 
-**Made for school administrators, registrars, IT directors, and education technologists.**  
+📈 **Market Structure**: The sector is **moderately fragmented**. While legacy enterprise giants dominate mega-university contracts, intense demand for cloud transformation, API interoperability, and specialized workflow automation has driven healthy competition among specialized SaaS platforms, regional providers, and self-hosted open-source alternatives.
 
-Let's make campus management more open, transparent, and student-centric.
+---
+
+## 📋 Table of Contents
+- [🏢 SaaS & Cloud-Hosted Platforms](#-saas--cloud-hosted-platforms)
+- [🔓 Open-Source GitHub Repositories](#-open-source-github-repositories)
+- [🛠️ Architecture Frameworks & Solutions](#%EF%B8%8F-architecture-frameworks--solutions)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 🏢 SaaS & Cloud-Hosted Platforms
+
+Below is a comparative, sorted list of major commercial SaaS platforms for higher education, K-12, and trade institutions, ordered by **Company Scale / Annual Revenue (Descending)** 📉.
+
+| 🏢 Product Name | 💵 Starting Tier Pricing | 🎁 Free Tier / Free Trial Limits | 📊 Company Scale & Revenue (Est.) | 📝 Key Features & Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Ellucian Banner](https://www.ellucian.com/)** | **~$50,000 / year** (Modular enterprise contract based on FTE) | **No Free Plan**; 14-day guided sandbox demo available upon institution request | **~$900M Revenue** (~4,300 employees; Private via Vista & Blackstone) | Comprehensive Higher Education ERP covering Student Information, HR, Finance, and Financial Aid. |
+| **[Unit4 Student Management](https://www.unit4.com/)** | **~$40,000 / year** (SaaS base fee per institutional module) | **No Free Plan**; 30-day corporate sandbox trial for qualified institutions | **~$678M Revenue** (~3,400 employees; Private via TA Associates) | Cloud-native ERP & Student Management suite designed for international universities and research colleges. |
+| **[Anthology Student](https://www.anthology.com/)** | **~$35,000 / year** (Enterprise quote based on student enrollment) | **No Free Plan**; Guided institutional interactive demo available | **~$450M Revenue** (~4,100 employees; Restructuring FY2025) | Unified SIS, CRM, and Admissions platform for higher ed institutions (formerly CampusNexus). |
+| **[CampusCafe](https://www.campuscafe.com/)** | **$1,200 / month** (Base package including Core SIS module) | **No Free Plan**; 14-day interactive admin demo account | **~$15M Revenue** (~50 employees; Independent) | All-in-one cloud platform for K-12, career colleges, and small-to-midsize higher ed. |
+| **[Classe365](https://www.classe365.com/)** | **$100 / month** (Core tier for 1–100 students) | **No Free Plan**; 14-day full feature free trial (No credit card required) | **~$10M Revenue** (4,500+ institutions across 130+ countries) | Modern student management and LMS with integrated CRM, fee invoicing, and mobile app. |
+| **[Populi](https://www.populiweb.com/)** | **$199 / month** (Base fee + $9/month per billable student) | **No Free Plan**; 30-day full access demo site with sample institutional data | **~$5M ARR** (~15 employees; Independent bootstrapped) | Web-based college management system integrating SIS, financial aid, LMS, and library management. |
+| **[OpenEduCat Enterprise](https://openeducat.org/)** | **$75 / month** (Base cloud module subscription) | **No Free Plan**; 15-day live interactive cloud trial | **~$3M Revenue** (Global Odoo education partner ecosystem) | Enterprise-supported version of OpenEduCat built on Odoo ERP with 74+ administrative modules. |
+| **[Academia ERP](https://www.academiaerp.com/)** | **~$500 / month** (Modular annual SaaS subscription) | **No Free Plan**; Custom scheduled live demo session with solution architects | **~$3M Revenue** (Serosoft Solutions; serving 300+ campuses) | Modular education ERP for schools, colleges, and university groups with multi-campus management. |
+
+---
+
+## 🔓 Open-Source GitHub Repositories
+
+Below are production-ready open-source Student Information Systems, Learning Management Systems (LMS), and Educational ERP platforms, sorted by **GitHub Star Count (Descending)** 📉.
+
+| 📦 Repository & Link | ⭐ GitHub Stars Badge | 📜 License | 🧰 Tech Stack | 📌 Overview & Scope |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Odoo Community Edition](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | Modular enterprise ERP platform with native modules adaptable for school management, admissions, and payroll. |
+| **[ERPNext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python (Frappe Framework), JS, MariaDB | Full-featured open-source ERP with built-in Education module for student records, fees, and course scheduling. |
+| **[Open edX Platform](https://github.com/openedx/openedx-platform)** | [![Stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social&color=white)](https://github.com/openedx/openedx-platform/stargazers) | AGPL-3.0 | Python, Django, React | World-class open online learning platform powering university MOOCs, course delivery, and student assessments. |
+| **[Moodle LMS](https://github.com/moodle/moodle)** | [![Stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers) | GPL-3.0 | PHP, MySQL / PostgreSQL | The world's most popular open-source Learning Management System featuring assignment grading, quizzes, and course tracking. |
+| **[Canvas LMS](https://github.com/instructure/canvas-lms)** | [![Stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white)](https://github.com/instructure/canvas-lms/stargazers) | AGPL-3.0 | Ruby on Rails, React, PostgreSQL | Open-source core of the industry-standard Canvas LMS for higher education course administration and grading. |
+| **[Chamilo LMS](https://github.com/chamilo/chamilo-lms)** | [![Stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social&color=white)](https://github.com/chamilo/chamilo-lms/stargazers) | GPL-3.0 | PHP, MySQL | E-learning and content management platform focused on ease of use and accessibility for schools and universities. |
+| **[OpenEduCat Core](https://github.com/openeducat/openeducat_erp)** | [![Stars](https://img.shields.io/github/stars/openeducat/openeducat_erp?style=social&color=white)](https://github.com/openeducat/openeducat_erp/stargazers) | LGPL-3.0 | Python (Odoo Framework), XML | Comprehensive educational ERP built on Odoo with 74+ modules for admission, faculty, exam, and timetable management. |
+| **[Frappe Education](https://github.com/frappe/education)** | [![Stars](https://img.shields.io/github/stars/frappe/education?style=social&color=white)](https://github.com/frappe/education/stargazers) | GPL-3.0 | Python (Frappe Framework), JS | Modern, lightweight education management app built on Frappe Framework for student attendance, fees, and grading. |
+| **[RosarioSIS](https://github.com/francoisjacquet/rosariosis)** | [![Stars](https://img.shields.io/github/stars/francoisjacquet/rosariosis?style=social&color=white)](https://github.com/francoisjacquet/rosariosis/stargazers) | GPL-2.0 | PHP, PostgreSQL | Flexible web-based Student Information System featuring demographics, gradebook, attendance, billing, and food service. |
+| **[Gibbon Core](https://github.com/GibbonEdu/core)** | [![Stars](https://img.shields.io/github/stars/GibbonEdu/core?style=social&color=white)](https://github.com/GibbonEdu/core/stargazers) | GPL-3.0 | PHP, MySQL | Clean, modular school management platform designed by teachers for attendance, timetabling, gradebook, and planner. |
+| **[Fedena](https://github.com/projectfedena/fedena)** | [![Stars](https://img.shields.io/github/stars/projectfedena/fedena?style=social&color=white)](https://github.com/projectfedena/fedena/stargazers) | Apache-2.0 | Ruby on Rails, MySQL | Proven school management software deployed across 40,000+ institutions with online admission, fee management, and examination. |
+| **[openSIS Classic](https://github.com/OS4ED/openSIS-Classic)** | [![Stars](https://img.shields.io/github/stars/OS4ED/openSIS-Classic?style=social&color=white)](https://github.com/OS4ED/openSIS-Classic/stargazers) | GPL-2.0 | PHP, MySQL / MariaDB | Commercial-grade Student Information System for K-12 and higher ed with scheduling, transcripts, and report cards. |
+
+---
+
+## 🛠️ Architecture Frameworks & Solutions
+
+When building custom campus management ecosystems, architects typically combine best-of-breed open-source tools:
+- 🏫 **Core SIS & Student Records**: Deploy **openSIS Classic** or **RosarioSIS** for lightweight, direct student demographic and gradebook administration.
+- 🏢 **Enterprise Campus ERP**: Implement **OpenEduCat** or **ERPNext Education** for full institutional accounting, HR, payroll, and asset management.
+- 📚 **Teaching & Learning (LMS)**: Integrate **Moodle** or **Canvas LMS** via LTI (Learning Tools Interoperability) standards to handle assignments, online quizzes, and digital classrooms.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring the **Awesome Campus Management** repository! If you find this curated ecosystem list helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository to increase visibility for educators and developers.
+- 🍴 **Fork** and share it with your IT team, university colleagues, or community.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and open-source maintenance, check out the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are highly welcome! 🌟 Follow these steps to submit additions:
+1. 🍴 Fork this repository.
+2. 📝 Edit `README.md` following the standard table formatting.
+3. 🔎 Ensure all entries include verified pricing details, company metrics, or accurate GitHub repository links.
+4. 🚀 Open a Pull Request with a clear description of your changes.
+
+---
+
+## ⚠️ Disclaimer
+
+- ℹ️ This repository is a community-curated collection for informational and research purposes.
+- 🔒 Campus management systems must strictly comply with regional student privacy regulations (**FERPA, GDPR, COPPA, HIPAA**).
+- 🛠️ Self-hosted deployments require ongoing maintenance, database security hardening, and regular encrypted backups.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Campus-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Campus-Management&type=date&legend=top-left)
+
+---
+
+**Made with ❤️ for School Administrators, Registrars, University IT Directors, and EdTech Developers.**
